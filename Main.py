@@ -10,3 +10,5 @@ print(y.upper())
 class Dog:
     def bark(self):
         print("bark")
+
+print("test")
